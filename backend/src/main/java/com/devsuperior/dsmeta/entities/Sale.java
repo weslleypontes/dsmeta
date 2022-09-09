@@ -1,6 +1,6 @@
 package com.devsuperior.dsmeta.entities;
 
-import java.time.LocalDate;
+import java.time.LocalDate; 
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
